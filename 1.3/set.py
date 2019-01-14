@@ -36,15 +36,3 @@ print("s1&s2",s1&s2)
 print("s1-s2",s1 -s2)
 print("s1 dif  s2",s1.difference(s2))
 
-print("作业:")
-
-list1=[1,2,3,4,5]
-print(list1)
-list1.sort(reverse=True)
-print(list1)
-
-s1="Hello Xuanhun!"
-print("s1=\"Hello Xuanhun!\"")
-print(s1)
-print("print(s1.replace(\"Xuanhun\",\"KC\")):")
-print(s1.replace("Xuanhun","KC"))
