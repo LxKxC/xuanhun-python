@@ -7,7 +7,6 @@ def gogogo():
             num = num + i
         else:
             num = num - i
-        print(i)
         i += 1
     print(num)
 
